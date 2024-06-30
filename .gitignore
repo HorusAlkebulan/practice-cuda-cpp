@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# my custom
+.vscode/launch.json
+.vscode/tasks.json
+add
+hello-world
